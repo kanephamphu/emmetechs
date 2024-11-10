@@ -789,243 +789,243 @@ Color 222222222222222222
 /*BOOTSNAV*/
 
 .blue .attr-nav > ul > li.menu > a {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .blue .side .widget.newsletter form span.input-group-addon button {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .blue nav.navbar.bootsnav ul.nav > li > a.active {
-    color: #4628ba;
+    color: #8f00ff;
   }
 
   .blue .attr-nav > ul.button > li:last-child > a {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 /*Style.css*/
 
 .video-btn i {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .text-light .video-btn i {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .video-btn i::after {
-    background: #4628ba repeat scroll 0 0;
+    background: #8f00ff repeat scroll 0 0;
 }
 
 .blue .btn-animation.border.theme {
-    border: 2px solid #4628ba !important;
-    color: #4628ba;
+    border: 2px solid #8f00ff !important;
+    color: #8f00ff;
 }
 
 .blue .btn-animation.border.theme::after {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .blue .btn-animation.border.theme i::after {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .bg-theme-blue, .blue .bg-theme {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .bg-theme-blue {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .blue .shadow.theme::after {
-  background: #4628ba none repeat scroll 0 0;
+  background: #8f00ff none repeat scroll 0 0;
 }
 
 .blue .btn-gray.border:hover {
-  background-color: #4628ba;
-  border: 2px solid #4628ba !important;
+  background-color: #8f00ff;
+  border: 2px solid #8f00ff !important;
 }
 
 .blue .btn-theme {
-  background-color: #4628ba;
+  background-color: #8f00ff;
   color: #ffffff !important;
-  border: 2px solid #4628ba;
+  border: 2px solid #8f00ff;
 }
 
 .blue .btn-theme.border {
   background-color: transparent;
-  color: #4628ba !important;
-  border: 2px solid #4628ba !important;
+  color: #8f00ff !important;
+  border: 2px solid #8f00ff !important;
 }
 
 .blue .btn-theme.border:hover {
-  background-color: #4628ba;
+  background-color: #8f00ff;
   color: #ffffff !important;
-  border: 2px solid #4628ba !important;
+  border: 2px solid #8f00ff !important;
 }
 
 .blue .btn-theme.effect:hover, 
  .blue .btn-theme.effect:focus {
-  background: #4628ba none repeat scroll 0 0;
-  border: 2px solid #4628ba;
+  background: #8f00ff none repeat scroll 0 0;
+  border: 2px solid #8f00ff;
   color: #ffffff;
 }
 
 .blue .heading-center::after,
 .blue .heading-center::before {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .blue .heading-center h5 {
-  color: #4628ba !important;
+  color: #8f00ff !important;
 }
 
 .blue .heading-left h5 {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .banner-area .carousel-control.shadow {
   background: transparent none repeat scroll 0 0;
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .blue .banner-area.text-default .content h2 strong {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .blue .video-play-button i {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .about-us-content .experience .left-content i {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .about-us-content .info li i {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .free-trial-area ul li::after {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .our-features-area .features-box .item .icon i {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .services-content-box .item .icon > i::after {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .services-content-box .item > a:hover {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .blue .services-content-box.services-stage-carousel .owl-dots .owl-dot.active span::after {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .services-list-items .item .top i {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .services-list-items .item ul li::after {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .blue .team-area .team-items .thumb .social li:first-child a,
 .blue .team-area .team-items .thumb .social li a:hover {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .blue .team-single-area .thumb .social li:first-child a,
 .blue .team-single-area .thumb .social li a:hover {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .choose-us-area .info > h5 {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .choose-us-area .skill-items .progress-box .progress .progress-bar span {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .choose-us-area .skill-items .progress-box .progress .progress-bar span::after {
-  border-top: 5px solid #4628ba;
+  border-top: 5px solid #8f00ff;
 }
 
 .blue .pricing-footer a.btn-dark.effect:hover {
-  background: #4628ba;
-  border-color: #4628ba;
+  background: #8f00ff;
+  border-color: #8f00ff;
 }
 
 .blue .pricing-area.plain .pricing .single-item .pricing-item.active,
 .blue .pricing-area.plain .pricing .single-item .pricing-item:hover {
-    border-top: 3px solid #4628ba;
+    border-top: 3px solid #8f00ff;
 }
 
 .blue .skill-items .progress-box .progress .progress-bar {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .blue .testimonials-area .thumb::after {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .blue .partner-area h2 strong {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .blue .blog-area .item .date {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .blue .blog-area .item .date {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .blue .blog-area.blog-standard .single-item.thumb-less .item .meta ul li a:hover {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .blue .blog-area .footer-meta ul li a:hover {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .blue .blog-area .info .meta li a:hover,
 .blue .blog-area .info h4 a:hover {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .blue .contact-area .left-info .item i {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .blue .contact-area .contact-items .form-items h5 {
-    color: #4628ba !important;
+    color: #8f00ff !important;
 }
 
 .blue .contact-area .contact-items .form-items button {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .blue footer .footer-bottom form span.input-group-addon button {
-    color: #4628ba !important;
+    color: #8f00ff !important;
 }
 
 .blue .site-preloader .ring {
-  border-top-color: #4628ba;
+  border-top-color: #8f00ff;
 }
 
 .software-banner form button {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .clients-area.standard h5 strong {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 /*+++++++++++==++==========

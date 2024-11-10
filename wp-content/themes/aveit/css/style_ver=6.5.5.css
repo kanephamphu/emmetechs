@@ -390,7 +390,7 @@ a.btn-simple:hover {
   width: 55px;
   text-align: center;
   line-height: 55px;
-  background: #4628ba;
+  background: #8f00ff;
   border-radius: 50%;
   position: relative;
   z-index: 1;
@@ -404,7 +404,7 @@ a.btn-simple:hover {
 
 .text-light .video-btn i {
   background: #ffffff;
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 
@@ -419,7 +419,7 @@ a.btn-simple:hover {
     display: block;
     width: 60px;
     height: 60px;
-    background: #4628ba repeat scroll 0 0;
+    background: #8f00ff repeat scroll 0 0;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
@@ -590,8 +590,8 @@ a.btn-simple:hover {
 }
 
 .blue .btn-animation.border.theme {
-    border: 2px solid #4628ba !important;
-    color: #4628ba;
+    border: 2px solid #8f00ff !important;
+    color: #8f00ff;
 }
 
 .dark-layout.blue .btn-animation.border.theme {
@@ -612,7 +612,7 @@ a.btn-simple:hover {
 }
 
 .blue .btn-animation.border.theme::after {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .dark-layout.blue .btn-animation.border.theme::after {
@@ -657,7 +657,7 @@ a.btn-simple:hover {
 }
 
 .blue .btn-animation.border.theme i::after {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .dark-layout.blue .btn-animation.border.theme i::after {
@@ -915,7 +915,7 @@ body.dark-layout .bg-gray {
 }
 
 .bg-theme-blue, .blue .bg-theme {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .it-solution .bg-theme {
@@ -923,7 +923,7 @@ body.dark-layout .bg-gray {
 }
 
 .bg-theme-blue {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .bg-light-gradient {
@@ -1037,7 +1037,7 @@ body.dark-layout .bg-gray {
 }
 
 .blue .shadow.theme::after {
-  background: #4628ba none repeat scroll 0 0;
+  background: #8f00ff none repeat scroll 0 0;
 }
 
 .it-solution .shadow.theme::after {
@@ -1215,8 +1215,8 @@ body.dark-layout .bg-gray {
 }
 
 .blue .btn-gray.border:hover {
-  background-color: #4628ba;
-  border: 2px solid #4628ba !important;
+  background-color: #8f00ff;
+  border: 2px solid #8f00ff !important;
 }
 
 .it-solution .btn-gray.border:hover {
@@ -1346,9 +1346,9 @@ body.dark-layout .bg-gray {
 }
 
 .blue .btn-theme {
-  background-color: #4628ba;
+  background-color: #8f00ff;
   color: #ffffff !important;
-  border: 2px solid #4628ba;
+  border: 2px solid #8f00ff;
 }
 
 .software .btn-theme {
@@ -1365,8 +1365,8 @@ body.dark-layout .bg-gray {
 
 .blue .btn-theme.border {
   background-color: transparent;
-  color: #4628ba !important;
-  border: 2px solid #4628ba !important;
+  color: #8f00ff !important;
+  border: 2px solid #8f00ff !important;
 }
 
 .btn-theme.border:hover {
@@ -1376,9 +1376,9 @@ body.dark-layout .bg-gray {
 }
 
 .blue .btn-theme.border:hover {
-  background-color: #4628ba;
+  background-color: #8f00ff;
   color: #ffffff !important;
-  border: 2px solid #4628ba !important;
+  border: 2px solid #8f00ff !important;
 }
 
 .btn-theme.effect:hover, 
@@ -1390,8 +1390,8 @@ body.dark-layout .bg-gray {
 
 .blue .btn-theme.effect:hover, 
  .blue .btn-theme.effect:focus {
-  background: #4628ba none repeat scroll 0 0;
-  border: 2px solid #4628ba;
+  background: #8f00ff none repeat scroll 0 0;
+  border: 2px solid #8f00ff;
   color: #ffffff;
 }
 
@@ -1768,7 +1768,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 
 .blue .heading-center::after,
 .blue .heading-center::before {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .software .heading-center::after,
@@ -1855,7 +1855,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 }
 
 .blue .heading-center h5 {
-  color: #4628ba !important;
+  color: #8f00ff !important;
 }
 
 .software .heading-center h5 {
@@ -1902,7 +1902,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 }
 
 .blue .heading-left h5 {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .dark-layout .heading-left h5 {
@@ -2454,7 +2454,7 @@ body,
 
 .banner-area .carousel-control.shadow {
   background: transparent none repeat scroll 0 0;
-  color: #4628ba;
+  color: #8f00ff;
   font-size: 20px;
   height: 50px;
   line-height: 55px;
@@ -3001,7 +3001,7 @@ body,
 }
 
 .blue .banner-area.text-default .content h2 strong {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .banner-area.text-default .content a {
@@ -3327,7 +3327,7 @@ body,
 }
 
 .blue .video-play-button i {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .video-play-button.theme i {
@@ -4318,7 +4318,7 @@ ul.achivement li:first-child {
 .about-us-content .experience .left-content i {
     display: inline-block;
     font-size: 90px;
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .about-us-content h2 {
@@ -4347,7 +4347,7 @@ ul.achivement li:first-child {
     line-height: 50px;
     text-align: center;
     background: #F1F1F2;
-    color: #4628ba;
+    color: #8f00ff;
     font-size: 22px;
     border-radius: 50%;
     margin-right: 10px;
@@ -4544,7 +4544,7 @@ ul.achivement li:first-child {
     text-align: center;
     border-radius: 50%;
     font-weight: 300;
-    color: #4628ba;
+    color: #8f00ff;
     font-size: 20px;
 }
 
@@ -4695,7 +4695,7 @@ ul.achivement li:first-child {
     display: inline-block;
     font-size: 40px;
     margin-bottom: 30px;
-    background: #4628ba;
+    background: #8f00ff;
     position: relative;
     z-index: 1;
     margin-top: 5px;
@@ -4998,7 +4998,7 @@ ul.achivement li:first-child {
     width: 120%;
     border-radius: 50%;
     opacity: 0.1;
-    background: #4628ba;
+    background: #8f00ff;
     z-index: -1;
 }
 
@@ -5033,7 +5033,7 @@ ul.achivement li:first-child {
 }
 
 .services-content-box .item > a:hover {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .dark-layout .services-content-box .item > a:hover {
@@ -5086,7 +5086,7 @@ ul.achivement li:first-child {
 }
 
 .blue .services-content-box.services-stage-carousel .owl-dots .owl-dot.active span::after {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 /* ============================================================== 
@@ -5450,7 +5450,7 @@ ul.achivement li:first-child {
     display: inline-block;
     font-size: 60px;
     margin-right: 20px;
-    color: #4628ba;
+    color: #8f00ff;
     position: relative;
     z-index: 1;
 }
@@ -5492,7 +5492,7 @@ ul.achivement li:first-child {
     content: "\f058";
     font-family: "Font Awesome 5 Pro";
     font-weight: 600;
-    color: #4628ba;
+    color: #8f00ff;
     font-size: 14px;
 }
 
@@ -6181,7 +6181,7 @@ ul.achivement li:first-child {
 
 .blue .team-area .team-items .thumb .social li:first-child a,
 .blue .team-area .team-items .thumb .social li a:hover {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .team-area .team-items .info {
@@ -6257,7 +6257,7 @@ ul.achivement li:first-child {
 
 .blue .team-single-area .thumb .social li:first-child a,
 .blue .team-single-area .thumb .social li a:hover {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 
@@ -6362,7 +6362,7 @@ ul.achivement li:first-child {
 .choose-us-area .info > h5 {
   text-transform: uppercase;
   font-weight: 700;
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .dark-layout .choose-us-area .info > h5 {
@@ -6425,7 +6425,7 @@ ul.achivement li:first-child {
   position: absolute;
   right: 0;
   bottom: 15px;
-  background: #4628ba;
+  background: #8f00ff;
   padding: 0px 8px;
   font-weight: 600;
   font-size: 12px;
@@ -6440,7 +6440,7 @@ ul.achivement li:first-child {
   content: "";
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
-  border-top: 5px solid #4628ba;
+  border-top: 5px solid #8f00ff;
 }
 
 .choose-us-area .statistics {
@@ -6960,9 +6960,9 @@ ul.achivement li:first-child {
 }
 
 .blue .pricing-footer a.btn-dark.effect:hover {
-  background: #4628ba;
+  background: #8f00ff;
   color: #ffffff !important;
-  border-color: #4628ba;
+  border-color: #8f00ff;
 }
 
 .pricing-area .pricing .single-item:nth-child(2) {
@@ -7035,7 +7035,7 @@ ul.achivement li:first-child {
 
 .blue .pricing-area.plain .pricing .single-item .pricing-item.active,
 .blue .pricing-area.plain .pricing .single-item .pricing-item:hover {
-    border-top: 3px solid #4628ba;
+    border-top: 3px solid #8f00ff;
 }
 
 .software .pricing-area.plain .pricing .single-item .pricing-item.active,
@@ -7722,7 +7722,7 @@ ul.achivement li:first-child {
 }
 
 .blue .skill-items .progress-box .progress .progress-bar {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .skill-items .progress-box .progress .progress-bar span {
@@ -8145,7 +8145,7 @@ ul.achivement li:first-child {
 }
 
 .blue .testimonials-area .thumb::after {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .software .testimonials-area .thumb::after {
@@ -8204,7 +8204,7 @@ ul.achivement li:first-child {
 }
 
 .blue .partner-area h2 strong {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .partner-area .shape {
@@ -8298,7 +8298,7 @@ ul.achivement li:first-child {
 }
 
 .blue .blog-area .item .date {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .software .blog-area .item .date {
@@ -8314,7 +8314,7 @@ ul.achivement li:first-child {
 }
 
 .blue .blog-area .item .date {
-  background: #4628ba;
+  background: #8f00ff;
 }
 
 .blog-area.blog-standard .item .thumb::after {
@@ -8391,7 +8391,7 @@ ul.achivement li:first-child {
 }
 
 .blue .blog-area.blog-standard .single-item.thumb-less .item .meta ul li a:hover {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .it-solution .blog-area.blog-standard .single-item.thumb-less .item .meta ul li a:hover {
@@ -8492,7 +8492,7 @@ ul.achivement li:first-child {
 }
 
 .blue .blog-area .footer-meta ul li a:hover {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .software .blog-area .footer-meta ul li a:hover {
@@ -8578,7 +8578,7 @@ ul.achivement li:first-child {
 
 .blue .blog-area .info .meta li a:hover,
 .blue .blog-area .info h4 a:hover {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .it-solution .blog-area .info .meta li a:hover,
@@ -9523,7 +9523,7 @@ ul.pagination {
 }
 
 .blue .contact-area .left-info .item i {
-    color: #4628ba;
+    color: #8f00ff;
 }
 
 .it-solution .contact-area .left-info .item i {
@@ -9579,7 +9579,7 @@ ul.pagination {
 }
 
 .blue .contact-area .contact-items .form-items h5 {
-    color: #4628ba !important;
+    color: #8f00ff !important;
 }
 
 .it-solution .contact-area .contact-items .form-items h5 {
@@ -9629,7 +9629,7 @@ ul.pagination {
 }
 
 .blue .contact-area .contact-items .form-items button {
-    background: #4628ba;
+    background: #8f00ff;
 }
 
 .contact-area .contact-items .form-items button:hover {
@@ -9975,7 +9975,7 @@ footer .footer-bottom form span.input-group-addon button {
 }
 
 .blue footer .footer-bottom form span.input-group-addon button {
-    color: #4628ba !important;
+    color: #8f00ff !important;
 }
 
 .software footer .footer-bottom form span.input-group-addon button {
@@ -10050,7 +10050,7 @@ footer.bg-dark .footer-bottom p {
 
 .blue .site-preloader .ring {
   border: 3px solid rgba(70, 40, 186, 0.2);
-  border-top-color: #4628ba;
+  border-top-color: #8f00ff;
   color: #ffffff;
 }
 
@@ -12182,7 +12182,7 @@ img.logo {
     min-height: 55px;
     padding: 0 30px;
     border-radius: 5px;
-    background: #4628ba;
+    background: #8f00ff;
     color: #ffffff;
     font-weight: 700;
     transition: all 0.35s ease-in-out;
@@ -12282,7 +12282,7 @@ img.logo {
 }
 
 .clients-area.standard h5 strong {
-    color: #4628ba;
+    color: #8f00ff;
     font-size: 30px;
     border-bottom: 1px solid;
 }
@@ -12688,7 +12688,7 @@ img.logo {
 }
 
 .services-style-four:nth-child(4n) i {
-  color: #4628ba;
+  color: #8f00ff;
 }
 
 .services-style-four:nth-child(5n) i {
